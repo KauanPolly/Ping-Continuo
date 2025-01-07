@@ -37,7 +37,7 @@ Este projeto contém dois scripts em Python que permitem realizar pings contínu
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/ping-continuo.git
+   git clone https://github.com/KauanPolly/Ping-Continuo.git
 
 
 
@@ -77,4 +77,5 @@ This project includes two Python scripts that allow you to perform continuous pi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/continuous-ping.git
+   git clone https://github.com/KauanPolly/Ping-Continuo.git
+
